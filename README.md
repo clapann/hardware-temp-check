@@ -20,4 +20,4 @@
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@clapann](https://clap.wtf) - A full-stack developer from California, United States.
-- [@viennalau](https://github.com/viennalau) - Web Design Consultant.
+- [@viennalau](https://github.com/viennalau) - Design Consultant from Massachusetts, United States.
